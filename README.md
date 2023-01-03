@@ -1,0 +1,2 @@
+This is my firts contact with Go, it's amazing! I'm very impressed with how easy it is to write a simple "Hello World" and compile this in a binary.
+I'm really anxious to learn more about this language and be able to do complex systems!!
